@@ -1,6 +1,6 @@
-# Anil Ganigiri — Cinematic Portfolio
+# Anil Ganigiri — Portfolio
 
-A responsive, single-page cinematic portfolio built from the uploaded resume.
+A responsive, single-page portfolio built from the uploaded resume.
 
 ## Run locally
 Open `index.html` directly in a browser, or run:
